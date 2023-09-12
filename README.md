@@ -2,18 +2,17 @@ Hola! Mi nombre es Gerónimo Nicolás Paz Papa
 Me dicen Gero! o Nico! 😄
 
 ¿Quién soy? 🙌
-Soy un Ingeniero y programador Fullstack orientado al diseño Front-end y en el marketing, mas precisamente en la creacion de contenido atractivo, con una gran capacidad para trabajar en equipo y consolidar proyectos con el mayor entusiasmo.
+Soy un Ingeniero y programador Full Stack orientado al diseño Front-end y en el marketing, mas precisamente en la creacion de contenido atractivo, con una gran capacidad para trabajar en equipo y consolidar proyectos con el mayor entusiasmo.
 
 ¿Que hago? 💪
-En estos momentos me dedico a realizar proyectos que me permiten avanzar en mi formacion como programdor. Soy un desarrollar muy exigente, busco todas las posibilidades y soluciones hasta que el codigo quede funcionando correctamente.
+En estos momentos me dedico a realizar proyectos que me permiten avanzar en mi formación como programador. Soy un desarrollar muy exigente, busco todas las posibilidades y soluciones hasta que el código quede funcionando correctamente.
 
+¿A dónde me dirijo? 👨‍🎓
+Mi objetivos en programación al igual que en ingeniería es poder ser lo más profesional posible al momento de crear proyectos y brindar soluciones.
 
-¿A donde me dirijo? 👨‍🎓
-Mi objetivos en programacion al igual que en ingenieria es poder ser lo mas profesional posible al momento de crear proyectos y brindar soluciones.
+¿Qué tecnologías uso? 👨‍💻
+El Bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia fundamental para despegar. Por lo que las principales tecnologías que manejo son:
 
-
-¿Que tecnologias uso? 👨‍💻
-El Bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia fundametal para despegar. Por lo que las principales tecnologias que manejo son:
 -Javascript 
 -React.js
 -Node.js
@@ -30,7 +29,7 @@ El Bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia fund
 
 Incluyendo HTML y CSS
 
-Ademas tengo conocimiento en otra herramientas Photoshop, Adobe Illustrator y figma para el desarrollo en mi experiencia en marketing.
+Además tengo conocimiento en otra herramientas Photoshop, Adobe Illustrator y Figma para el diseño y desarrollo en los distintos rubros a los que me dedico, como en marketing por ejemplo.
 
 ¡No dudes en contactarme! 🤝
 Juntos podemos brindar soluciones y consolidar proyectos!

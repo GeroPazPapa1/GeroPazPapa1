@@ -36,5 +36,6 @@ Ademas tengo conocimiento en otra herramientas Photoshop, Adobe Illustrator y fi
 Juntos podemos brindar soluciones y consolidar proyectos!
 
 Correo: Geronimonicolaspazpapa@gmail.com
+
 [Linkedin](www.linkedin.com/in/gerónimo-nicolás-paz-papa-b43b72215)
 

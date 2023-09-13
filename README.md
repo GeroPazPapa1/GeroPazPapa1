@@ -37,7 +37,7 @@ Incluyendo HTML y CSS
 
 Además tengo conocimiento en otra herramientas Photoshop, Adobe Illustrator y Figma para el diseño y desarrollo en los distintos rubros a los que me dedico, como en marketing por ejemplo.
 
-🤝 ¡No dudes en contactarme! 
+🤝✔️ ¡No dudes en contactarme! 
 Juntos podemos brindar soluciones y consolidar proyectos!
 
 Correo: Geronimonicolaspazpapa@gmail.com

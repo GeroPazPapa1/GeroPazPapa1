@@ -18,35 +18,20 @@ Mi objetivos en programación al igual que en ingeniería es poder ser lo más p
 El Bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia fundamental para despegar. Por lo que las principales tecnologías que manejo son:
 
 -Javascript
-
 -React.js
-
 -Node.js
-
 -Express.js
-
 -PostgreSQL
-
 -Sequelize
-
 -GIT
-
 -Redux
-
 -Axios
-
 -Cors
-
 -Dotenv
-
 -Firebase
-
 -Morgan
-
 -Trello
-
 -Slack
-
 
 Incluyendo HTML y CSS
 

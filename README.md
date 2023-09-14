@@ -7,7 +7,7 @@ Soy un Ingeniero y programador Full Stack orientado al diseño Front-end y en el
 
 💪 ¿Que hago? 
 
-En estos momentos me dedico a realizar proyectos que me permiten avanzar en mi formación como programador. Soy un desarrollar muy exigente, busco todas las posibilidades y soluciones hasta que el código quede funcionando correctamente.
+En estos momentos me dedico a realizar proyectos que me permiten avanzar en mi formación como programador. Soy un desarrollador muy exigente, busco todas las posibilidades y soluciones hasta que el código quede funcionando correctamente.
 
 👨‍🎓 ¿A dónde me dirijo? 
 

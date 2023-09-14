@@ -32,6 +32,7 @@ El Bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia fund
 -Morgan
 -Trello
 -Slack
+-Scrum
 
 Incluyendo HTML y CSS
 
